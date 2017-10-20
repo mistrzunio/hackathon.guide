@@ -405,4 +405,4 @@ After the event:
 
 © Joshua Tauberer 2014-2017\. Feel free to use under the terms of [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-HTML to markup converted using (https://domchristie.github.io/to-markdown/)
+HTML to markup converted using <https://domchristie.github.io/to-markdown/>
